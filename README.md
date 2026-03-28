@@ -6,15 +6,21 @@
 
 # Commands List :
 /boot : Start StrikeOS
+
 /exit : Exit StrikeOS
+
 /info32 : Show System Info
+
 /credits : StrikeOS Credits
+
 /randomnumbergen : Random Number Generator from 1 to 1000
 
 # Memes and Trolls :
 
 /trollface : Trollface ASCII art
+
 /rickroll : Rickroll ASCII art
+
 /fireinthehole : GD fire in the hole meme ASCII art
 
 
