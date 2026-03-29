@@ -5,6 +5,7 @@
 # ORIGINAL IDEA AND CODE : GlassOS by MarioCarGuy
 
 # Commands List :
+
 /boot : Start StrikeOS
 
 /exit : Exit StrikeOS
@@ -13,7 +14,13 @@
 
 /credits : StrikeOS Credits
 
+# Utilities :
+
+/dir : Checks files on the strikeos folder directory
+
 /randomnumbergen : Random Number Generator from 1 to 1000
+
+/calculator : Simple Calculator (Supports +, -, *, /)
 
 # Memes and Trolls :
 
@@ -22,6 +29,8 @@
 /rickroll : Rickroll ASCII art
 
 /fireinthehole : GD fire in the hole meme ASCII art
+
+/arch : Arch Linux ASCII art
 
 
 # As for now, more commands are coming in the future!
